@@ -13,5 +13,5 @@ ffmpeg tools on the cloud
 # STATUS
 ***WORK IN PROGRESS***
 
-***FROND_END developers are welcome,for developing Management Panel***
+***FRONT_END developers are welcome,for developing Management Panel***
 - Email: aminjamal10@gmail.com
